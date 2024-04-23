@@ -1,6 +1,9 @@
 # LabVIEW-Program-run-on-startup
 LabVIEW范例：如何让程序在系统启动时自启动
 
+> [!NOTE]
+> Example 依赖 [NEVSTOP-Programming-Palette](https://github.com/NEVSTOP-LAB/NEVSTOP-Programming-Palette).
+
 
 ## 需要了解
 
