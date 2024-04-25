@@ -37,7 +37,7 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce
 
 ## How-To
 
-1. 创建复用VI，用于创建导入注册表的包含自启动信息的 reg 文件
+1. 创建复用VI，用于创建导入注册表的包含自启动信息的 reg 文件 （此VI已包含在 [NEVSTOP-Programming-Palette](https://github.com/NEVSTOP-LAB/NEVSTOP-Programming-Palette) 5月Rleases 的 application Palette中，直接生成的reg 文件是 UTF-16 LE 编码.
 
 ![image](.doc/Snipaste_2024-04-23_11-40-06.png)
 
